@@ -27,3 +27,5 @@ Note, download the above zip file and unzip under your working folder.
 once you unzip the file, you will have a folder "UCI HAR Dataset" under your working directory.
 
 Use the R file to create the tidyData.txt file.
+
+There is more information about the files and variables under CodeBook.md file.
