@@ -1,9 +1,9 @@
 
 Title :"Codebook.md"
 
-Author :"Bhandhavi Sangaru"
 
-Date :"Thursday, October 23, 2014"
+
+
 
 Data Set Information:
 
