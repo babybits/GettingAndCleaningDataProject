@@ -1,6 +1,5 @@
 =================================
 Getting And Cleaning Data Project
- -Bhandhavi Sangaru
 =================================
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article . 
